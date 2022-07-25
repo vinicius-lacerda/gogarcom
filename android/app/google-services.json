@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "216144670453",
+    "project_id": "myshopping-1c033",
+    "storage_bucket": "myshopping-1c033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216144670453:android:058f1118422402baad5fbc",
+        "android_client_info": {
+          "package_name": "com.gogarcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216144670453-8gq77hnp6s1un2ohfjaoih97jrt4671q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gogarcom",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "216144670453-dg689vtdc3dngcig6urifg421s243uha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvwh3dtdtkFxlrSCFrvN92R4fPohwrVfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216144670453-dg689vtdc3dngcig6urifg421s243uha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216144670453-3lgg2jcs6re18lgbl1qgn3996jitpovr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.name.myshopping"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
