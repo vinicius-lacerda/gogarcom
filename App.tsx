@@ -8,8 +8,7 @@ import { useFonts } from 'expo-font';
 import { ThemeProvider } from 'styled-components/native';
 import { AuthProvider } from '@hooks/auth';
 
-
-import { Product } from '@screens/Product';
+import { Routes } from './src/routes';
 
 import theme from './src/theme';
 
@@ -28,7 +27,7 @@ export default function App() {
       <StatusBar style="light" translucent backgroundColor="transparent" />
       <AuthProvider>
         <GestureHandlerRootView style={{ flex: 1 }}>
-          <Product />
+          <Routes />
         </GestureHandlerRootView>
       </AuthProvider>
     </ThemeProvider>
